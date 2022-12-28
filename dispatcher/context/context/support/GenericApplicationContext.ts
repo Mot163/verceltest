@@ -18,7 +18,7 @@ import IScope from '../../annotation/interface/IScope';
 import MethodBeanDefinition from '../../../beans/support/MethodBeanDefinition';
 import PathUtils from '../../../common/utils/PathUtils';
 
-// const __dirname = PathUtils.getDirnameByURL(import.meta.url);
+const __dirname = PathUtils.getDirnameByURL(import.meta.url);
 const __mo_dispatcher = PathUtils.resolve(__dirname, '../../../');
 
 /**
