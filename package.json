@@ -1,14 +1,5 @@
 {
-  "name": "verceltest",
-  "version": "1.0.0",
-  "description": "",
-  "type": "module",
-  "author": "mo",
-  "license": "ISC",
   "devDependencies": {
     "@vercel/node": "^2.8.2"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.0"
   }
 }
