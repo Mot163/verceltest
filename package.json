@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@vercel/node": "^2.8.2"
+  },
+  "dependencies": {
+    "mongoose": "^6.8.1"
   }
 }
