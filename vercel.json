@@ -17,11 +17,5 @@
                 }
             ]
         }
-    ],
-    "rewrites": [
-        {
-            "source": "/:match*",
-            "destination": "/api/personal"
-        }
     ]
 }
